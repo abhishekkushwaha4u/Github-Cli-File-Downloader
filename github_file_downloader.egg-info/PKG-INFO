@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: github-file-downloader
-Version: 1.0.2
+Version: 1.0.3
 Summary: A small cli based utility, to download individual files from public repos in Github
-Home-page: https://github.com/pypa/sampleproject
+Home-page: https://github.com/abhishekkushwaha4u/Github-Cli-File-Downloader
 Author: Abhishek Kushwaha
 Author-email: thecrazycoderabhi@gmail.com
 License: UNKNOWN
