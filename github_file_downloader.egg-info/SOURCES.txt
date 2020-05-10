@@ -1,6 +1,0 @@
-README.md
-setup.py
-github_file_downloader.egg-info/PKG-INFO
-github_file_downloader.egg-info/SOURCES.txt
-github_file_downloader.egg-info/dependency_links.txt
-github_file_downloader.egg-info/top_level.txt
